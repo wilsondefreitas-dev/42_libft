@@ -1,0 +1,3 @@
+# LIBFT
+
+run `make`

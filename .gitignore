@@ -1,0 +1,15 @@
+*.o
+*.a
+
+*~
+
+/build
+/output
+
+.vscode/
+.idea/
+
+/vendor/
+
+main
+main.c
