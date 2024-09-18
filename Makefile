@@ -1,5 +1,6 @@
 FILES = ft_strlen \
 		ft_toupper \
+		ft_tolower \
 
 CFILES = $(FILES:%=%.c)
 

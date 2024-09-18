@@ -6,7 +6,8 @@ run `gcc -o main main.c libft.a`
 
 run `./main`
 
-TODO:
+# TODO:
+#### pt. 1
 
 - [ ] memset
 - [ ] bzero
@@ -30,4 +31,4 @@ TODO:
 - [ ] isascii
 - [ ] isprint
 - [x] toupper
-- [ ] tolower
+- [x] tolower
