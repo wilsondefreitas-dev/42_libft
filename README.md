@@ -24,7 +24,7 @@ run `./output/main`
 - [ ] strncat
 - [ ] strcmp
 - [ ] strncmp
-- [ ] atoi
+- [x] atoi
 - [x] isalpha
 - [x] isdigit
 - [ ] isalnum

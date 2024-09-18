@@ -3,6 +3,7 @@ FILES = ft_strlen \
 		ft_tolower \
 		ft_isalpha \
 		ft_isdigit \
+		ft_atoi \
 
 CFILES = $(FILES:%=%.c)
 
