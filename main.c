@@ -2,7 +2,9 @@
 #include "libft.h"
 
 int main(void){
-    char c = ft_tolower('Z');
-
-    printf("letter: %c\n", c);
+    if(ft_isalpha('Z')){
+        printf("It's alpha\n");
+    }else{
+        printf("It's not alpha\n");
+    }
 }

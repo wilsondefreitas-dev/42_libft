@@ -25,7 +25,7 @@ run `./main`
 - [ ] strcmp
 - [ ] strncmp
 - [ ] atoi
-- [ ] isalpha
+- [x] isalpha
 - [ ] isdigit
 - [ ] isalnum
 - [ ] isascii
