@@ -3,5 +3,5 @@
 
 int main(void)
 {
-    printf("%i\n", ft_atoi("2024"));
+    printf("%i\n", ft_isalnum('~'));
 }

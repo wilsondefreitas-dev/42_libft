@@ -12,4 +12,5 @@ int ft_tolower(int ch);
 int ft_isalpha(int ch);
 int ft_isdigit(int ch);
 int ft_atoi(const char *str);
+int ft_isalnum(int ch);
 #endif

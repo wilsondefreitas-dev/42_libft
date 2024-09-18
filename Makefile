@@ -4,6 +4,7 @@ FILES = ft_strlen \
 		ft_isalpha \
 		ft_isdigit \
 		ft_atoi \
+		ft_isalnum \
 
 CFILES = $(FILES:%=%.c)
 
