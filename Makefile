@@ -13,6 +13,8 @@ NAME = libft.a
 $(NAME):
 	gcc -Wall -Wextra -Werror -c $(CFILES) -I./
 	ar -rc $(NAME) $(OFILES)
+	mv *.o output
+	mv *.a output
 
 all: $(NAME)
 

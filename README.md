@@ -2,9 +2,9 @@
 
 run `make`
 
-run `gcc -o main main.c libft.a`
+run `gcc -o output/main main.c output/libft.a`
 
-run `./main`
+run `./output/main`
 
 # TODO:
 #### pt. 1
