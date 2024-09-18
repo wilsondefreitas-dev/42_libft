@@ -2,9 +2,9 @@
 #include "libft.h"
 
 int main(void){
-    if(ft_isalpha('Z')){
-        printf("It's alpha\n");
+    if(ft_isdigit('1')){
+        printf("It's digit\n");
     }else{
-        printf("It's not alpha\n");
+        printf("It's not digit\n");
     }
 }

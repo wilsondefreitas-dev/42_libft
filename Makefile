@@ -2,6 +2,7 @@ FILES = ft_strlen \
 		ft_toupper \
 		ft_tolower \
 		ft_isalpha \
+		ft_isdigit \
 
 CFILES = $(FILES:%=%.c)
 
