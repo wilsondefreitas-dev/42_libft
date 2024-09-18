@@ -1,4 +1,5 @@
 FILES = ft_strlen \
+		ft_toupper \
 
 CFILES = $(FILES:%=%.c)
 
