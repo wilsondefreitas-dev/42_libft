@@ -3,5 +3,5 @@
 
 int main(void)
 {
-    printf("%i\n", ft_isalnum('~'));
+    printf("%i\n", ft_isascii('a'));
 }

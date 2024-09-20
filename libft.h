@@ -13,4 +13,5 @@ int ft_isalpha(int ch);
 int ft_isdigit(int ch);
 int ft_atoi(const char *str);
 int ft_isalnum(int ch);
+int ft_isascii(int ch);
 #endif
