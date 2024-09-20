@@ -29,6 +29,6 @@ run `./output/main`
 - [x] isdigit
 - [x] isalnum
 - [x] isascii
-- [ ] isprint
+- [x] isprint
 - [x] toupper
 - [x] tolower

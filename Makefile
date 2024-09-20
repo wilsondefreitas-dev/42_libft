@@ -6,6 +6,7 @@ FILES = ft_strlen \
 		ft_atoi \
 		ft_isalnum \
 		ft_isascii \
+		ft_isprint \
 
 CFILES = $(FILES:%=%.c)
 

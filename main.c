@@ -3,5 +3,5 @@
 
 int main(void)
 {
-    printf("%i\n", ft_isascii('a'));
+    printf("%i\n", ft_isprint('a'));
 }
