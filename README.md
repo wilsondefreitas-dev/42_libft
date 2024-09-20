@@ -22,7 +22,7 @@ run `./output/main`
 - [ ] strncpy
 - [ ] strcat
 - [ ] strncat
-- [ ] strcmp
+- [x] strcmp
 - [ ] strncmp
 - [x] atoi
 - [x] isalpha

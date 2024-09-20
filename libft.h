@@ -15,4 +15,5 @@ int ft_atoi(const char *str);
 int ft_isalnum(int ch);
 int ft_isascii(int ch);
 int ft_isprint(int ch);
+int ft_strcmp(const char *str1, const char *str2);
 #endif
