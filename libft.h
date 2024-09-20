@@ -1,5 +1,6 @@
 #ifndef LIBFT_H
 #define LIBFT_H
+#include <stddef.h>
 
 // it's a macro because it's simple and was not necessary as a function in 42 exercise
 #ifndef IS_SPACE
@@ -16,4 +17,5 @@ int ft_isalnum(int ch);
 int ft_isascii(int ch);
 int ft_isprint(int ch);
 int ft_strcmp(const char *str1, const char *str2);
+int ft_strncmp(const char *str1, const char *str2, size_t n);
 #endif

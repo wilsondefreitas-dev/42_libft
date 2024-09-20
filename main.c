@@ -3,5 +3,5 @@
 
 int main(void)
 {
-    printf("%i\n", ft_strcmp(" E1r ", " E2r "));
+    printf("%i\n", ft_strncmp("ac", "aa", 2));
 }

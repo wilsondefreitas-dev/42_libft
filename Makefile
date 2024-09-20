@@ -8,6 +8,7 @@ FILES = ft_strlen \
 		ft_isascii \
 		ft_isprint \
 		ft_strcmp \
+		ft_strncmp \
 
 CFILES = $(FILES:%=%.c)
 
