@@ -12,7 +12,7 @@ run `./output/main`
 - [x] memset
 - [x] bzero
 - [x] memcpy
-- [ ] memccpy
+- [x] memccpy
 - [ ] memmove
 - [ ] memcmp
 - [ ] memchr
