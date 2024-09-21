@@ -18,7 +18,7 @@ run `./output/main`
 - [ ] memchr
 - [x] strlen
 - [ ] strdup
-- [ ] strcpy
+- [x] strcpy
 - [ ] strncpy
 - [x] strcat
 - [x] strncat

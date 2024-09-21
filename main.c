@@ -4,7 +4,10 @@
 int main(void)
 {
 
-    char dst[50] = "Wilson";
+    char str1[20] = "C programming";
+    char str2[20];
 
-    printf("%s\n", ft_strncat(dst, "123456789", 3));
+    ft_strcpy(str2, str1);
+
+    puts(str2);
 }
