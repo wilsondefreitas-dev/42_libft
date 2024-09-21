@@ -3,5 +3,8 @@
 
 int main(void)
 {
-    printf("%i\n", ft_strncmp("ac", "aa", 2));
+
+    char dst[50] = "Wilson";
+
+    printf("%s\n", ft_strcat(dst, " de Freitas Junior"));
 }

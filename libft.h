@@ -18,4 +18,5 @@ int ft_isascii(int ch);
 int ft_isprint(int ch);
 int ft_strcmp(const char *str1, const char *str2);
 int ft_strncmp(const char *str1, const char *str2, size_t n);
+char *ft_strcat(char *dst, const char *src);
 #endif
