@@ -10,7 +10,7 @@ run `./output/main`
 #### pt. 1
 
 - [x] memset
-- [ ] bzero
+- [x] bzero
 - [ ] memcpy
 - [ ] memccpy
 - [ ] memmove

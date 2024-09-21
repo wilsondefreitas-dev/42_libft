@@ -15,6 +15,7 @@ FILES = ft_strlen \
 		ft_strncpy \
 		ft_strdup \
 		ft_memset \
+		ft_bzero \
 
 CFILES = $(FILES:%=%.c)
 
