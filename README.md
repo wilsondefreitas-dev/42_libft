@@ -19,7 +19,7 @@ run `./output/main`
 - [x] strlen
 - [ ] strdup
 - [x] strcpy
-- [ ] strncpy
+- [x] strncpy
 - [x] strcat
 - [x] strncat
 - [x] strcmp
