@@ -9,7 +9,7 @@ run `./output/main`
 # TODO:
 #### pt. 1
 
-- [ ] memset
+- [x] memset
 - [ ] bzero
 - [ ] memcpy
 - [ ] memccpy

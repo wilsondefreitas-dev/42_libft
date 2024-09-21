@@ -4,8 +4,8 @@
 int main(void)
 {
 
-    char *str1 = "12345";
-    char *str2 = ft_strdup(str1);
+    char str[50] = "Welcome to My software";
 
-    puts(str2);
+    ft_memset(str, 'K', 7);
+    puts(str);
 }

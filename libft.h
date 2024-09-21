@@ -24,4 +24,5 @@ char *ft_strncat(char *dst, const char *src, size_t n);
 char *ft_strcpy(char *dst, const char *src);
 char *ft_strncpy(char *dst, const char *src, size_t n);
 char *ft_strdup(const char *string);
+void *ft_memset(void *str, int c, size_t n);
 #endif
