@@ -21,7 +21,7 @@ run `./output/main`
 - [ ] strcpy
 - [ ] strncpy
 - [x] strcat
-- [ ] strncat
+- [x] strncat
 - [x] strcmp
 - [x] strncmp
 - [x] atoi
