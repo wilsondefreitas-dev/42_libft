@@ -1,6 +1,7 @@
 #ifndef LIBFT_H
 #define LIBFT_H
 #include <stddef.h>
+#include <stdlib.h>
 
 // it's a macro because it's simple and was not necessary as a function in 42 exercise
 #ifndef IS_SPACE
@@ -22,4 +23,5 @@ char *ft_strcat(char *dst, const char *src);
 char *ft_strncat(char *dst, const char *src, size_t n);
 char *ft_strcpy(char *dst, const char *src);
 char *ft_strncpy(char *dst, const char *src, size_t n);
+char *ft_strdup(const char *string);
 #endif

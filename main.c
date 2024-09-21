@@ -4,10 +4,8 @@
 int main(void)
 {
 
-    char str1[20] = "C programming";
-    char str2[20];
-
-    ft_strncpy(str2, str1, 1);
+    char *str1 = "12345";
+    char *str2 = ft_strdup(str1);
 
     puts(str2);
 }

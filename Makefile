@@ -13,6 +13,7 @@ FILES = ft_strlen \
 		ft_strncat \
 		ft_strcpy \
 		ft_strncpy \
+		ft_strdup \
 
 CFILES = $(FILES:%=%.c)
 
