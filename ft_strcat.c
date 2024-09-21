@@ -13,5 +13,7 @@ char *ft_strcat(char *dst, const char *src)
         i++;
     }
 
+    dst[s + i] = '\0';
+
     return dst;
 }
