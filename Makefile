@@ -20,6 +20,7 @@ FILES = ft_strlen \
 		ft_memccpy \
 		ft_memmove \
 		ft_memchr \
+		ft_memcmp \
 
 CFILES = $(FILES:%=%.c)
 

@@ -6,15 +6,14 @@ run `gcc -o output/main main.c output/libft.a`
 
 run `./output/main`
 
-# TODO:
-#### pt. 1
+# FUNCTIONS:
 
 - [x] memset
 - [x] bzero
 - [x] memcpy
 - [x] memccpy
 - [x] memmove
-- [ ] memcmp
+- [x] memcmp
 - [x] memchr
 - [x] strlen
 - [x] strdup
