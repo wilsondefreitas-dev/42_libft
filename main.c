@@ -4,11 +4,10 @@
 int main(void)
 {
 
-    const char src[50] = "points!!!";
-    char dest[50] = "--------";
-
-    printf("Before memcpy dest = %s\n", dest);
-    printf("%p\n", ft_memccpy(dest, src, 'o', 49));
-    printf("After memcpy dest = %s\n", dest);
+    char dest_str[] = "123456789";
+    const char src_str[] = "abcdefghijklmnopqrstuv";
+    printf("Before memmove dest = %s, src = %s\n", dest_str, src_str);
+    ft_memmove(dest_str, src_str, 5);
+    printf("After memmove dest = %s, src = %s\n", dest_str, src_str);
     return (0);
 }
