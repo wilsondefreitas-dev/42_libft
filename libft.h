@@ -29,4 +29,5 @@ void ft_bzero(void *s, size_t n);
 void *ft_memcpy(void *dst, const void *src, size_t n);
 void *ft_memccpy(void *dst, const void *src, int c, size_t n);
 void *ft_memmove(void *dest_str, const void *src_str, size_t numBytes);
+void *ft_memchr(const void *str, int c, size_t n);
 #endif

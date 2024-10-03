@@ -19,6 +19,7 @@ FILES = ft_strlen \
 		ft_memcpy \
 		ft_memccpy \
 		ft_memmove \
+		ft_memchr \
 
 CFILES = $(FILES:%=%.c)
 

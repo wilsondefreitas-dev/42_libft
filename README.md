@@ -15,7 +15,7 @@ run `./output/main`
 - [x] memccpy
 - [x] memmove
 - [ ] memcmp
-- [ ] memchr
+- [x] memchr
 - [x] strlen
 - [x] strdup
 - [x] strcpy
